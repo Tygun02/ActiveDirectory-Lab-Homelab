@@ -45,4 +45,3 @@ This homelab demonstrates not only technical skills in **Active Directory admini
 
 ## 🔗 Connect
 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/kingsley-otoo-6aabb0273).  
-
