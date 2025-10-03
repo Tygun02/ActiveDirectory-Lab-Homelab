@@ -1,37 +1,23 @@
 # Active Directory Homelab (Windows Server)
 
-👤 **Author:** Kingsley Otoo  
-🔗 [LinkedIn](https://www.linkedin.com/in/kingsley-otoo-6aabb0273) | [GitHub Repository](https://github.com/Tygun02/ActiveDirectory-Lab-Homelab)
+Welcome to my **Active Directory (AD) homelab portfolio site**.  
+This project demonstrates my ability to plan, deploy, and document a fully functional AD environment with automation and security best practices.
 
 ---
 
-## 📌 Overview
-This project showcases my hands-on experience setting up an **Active Directory (AD) environment** in a VMware homelab.  
-I built and configured a Windows Server domain controller, automated administration with PowerShell, and applied security best practices.
-
----
-
-## ⭐ Key Skills Demonstrated
-- Windows Server installation and promotion to **Domain Controller (AD DS)**  
-- DNS configuration and domain networking  
-- **Organizational Unit (OU)** hierarchy design  
-- Automated **user and group creation** with PowerShell  
-- Group Policy Objects (**GPOs**) for password complexity & security  
-- Backup and documentation of domain policies  
-
----
-
-## 📂 Project Deliverables
-- Full walkthrough with screenshots (`docs/`)  
-- PowerShell automation scripts (`scripts/`)  
-- Backup & GPO export files  
+## 📌 Key Highlights
+- ⚙️ Built a **Windows Server 2022 VM** and promoted it to a **Domain Controller**
+- 🌐 Configured **DNS and networking** for domain services
+- 🗂️ Designed a structured **OU hierarchy** (IT, HR, Sales)
+- 👥 Automated **user and group creation** with PowerShell
+- 🔒 Applied **Group Policy Objects (GPOs)** for password complexity & security baselines
+- 📑 Exported **GPO reports and backups** for documentation
 
 ---
 
 ## 📄 Portfolio Downloads
-
-- 📘 [Full Portfolio (Detailed with Screenshots)](ActiveDirectoryHomelabPortfolio.pdf)  
-- ⚡ [Executive Summary (1-page overview)](ActiveDirectoryHomelabSummary.pdf)
+- 📘 [View Full Portfolio with Screenshots (PDF)](ActiveDirectoryHomelab-Portfolio.pdf)  
+- ⚡ [Download 1-Page Executive Summary (PDF)](ActiveDirectoryHomelab-Summary.pdf)
 
 ---
 
@@ -51,9 +37,6 @@ The following images highlight **key steps** of my Active Directory Homelab setu
 |---------------------|---------------|
 | ![](./img/gpo-password-policy.png)<br>_Group Policy enforcing password rules_ | ![](./img/backup-report.png)<br>_Backup and export report_ |
 
-📘 [View Full Portfolio with All Screenshots (PDF)](../ActiveDirectoryHomelab-Portfolio.pdf)  
-⚡ [Download 1-Page Executive Summary (PDF)](../ActiveDirectoryHomelab-Summary.pdf)  
-
 ---
 
 ## 🛠️ Skills Applied in This Project
@@ -63,11 +46,16 @@ The following images highlight **key steps** of my Active Directory Homelab setu
 - Organizational Unit (OU) & user/group management  
 - PowerShell automation for bulk tasks  
 - Group Policy Objects (GPOs) for security baselines  
-- Backup, reporting, and documentation best practices  
+- Backup, reporting, and documentation best practices 
+
+👤 **Author:** Kingsley Otoo  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kingsley-otoo-6aabb0273)  
+
+
+# Active Directory Homelab (Windows Server)
+
+👤 **Author:** Kingsley Otoo  
+🔗 [LinkedIn](https://www.linkedin.com/in/kingsley-otoo-6aabb0273) | [GitHub Repository](https://github.com/Tygun02/ActiveDirectory-Lab-Homelab)
 
 ---
-
-## 🔗 Connect
-📧 Reach me on [LinkedIn](https://www.linkedin.com/in/kingsley-otoo-6aabb0273).  
-
 
