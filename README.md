@@ -13,10 +13,11 @@ I built a Windows Server domain controller in a VMware environment and configure
 
 ---
 
-## 📄 Portfolio Downloads  
+## 📄 Portfolio Downloads
 
-- 📘 [Full Portfolio (Detailed with Screenshots)](./ActiveDirectoryHomelabPortfolio)  
-- ⚡ [Executive Summary (1-page overview)](./ActiveDirectoryHomelabSummaryf)  
+- 📘 [Full Portfolio (Detailed with Screenshots)](ActiveDirectoryHomelabPortfolio.pdf)  
+- ⚡ [Executive Summary (1-page overview)](ActiveDirectoryHomelabSummary.pdf)
+
 - 🌐 [Live site (GitHub Pages)](https://tygun02.github.io/ActiveDirectory-Lab-Homelab)
 
 ---
