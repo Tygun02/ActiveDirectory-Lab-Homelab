@@ -30,8 +30,8 @@ I built and configured a Windows Server domain controller, automated administrat
 
 ## 📄 Portfolio Downloads
 
-- 📘 [Full Portfolio (Detailed with Screenshots)](./ActiveDirectoryHomelab-Portfolio.pdf)  
-- ⚡ [Executive Summary (1-page overview)](./ActiveDirectoryHomelab-Summary.pdf)
+- 📘 [Full Portfolio (Detailed with Screenshots)](./ActiveDirectoryHomelabPortfolio)  
+- ⚡ [Executive Summary (1-page overview)](./ActiveDirectoryHomelabSummary)
 
 ---
 
