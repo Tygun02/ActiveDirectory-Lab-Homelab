@@ -16,7 +16,7 @@ I built a Windows Server domain controller in a VMware environment and configure
 ---
 
 ## 📄 Portfolio Downloads
-- 📘 [Full Portfolio (with Screenshots)](docs/ActiveDirectoryHomelab-Portfolio.pdf)  
+- 📘 [Full Portfolio (with Screenshots)](docs/ActiveDirectoryHomelab-Portfolio(1).pdf)  
 - ⚡ [Executive Summary (1-page overview)](docs/ActiveDirectoryHomelab-Summary.pdf)
 
 ---
