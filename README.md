@@ -1,7 +1,32 @@
  # Active Directory Homelab (Windows Server)
 
-This repository documents my hands-on **Active Directory (AD) homelab** project.  
-I built a Windows Server domain controller in a VMware environment and configured a full AD setup with OUs, users, groups, GPOs, automation, and backups.
+# 🧩 Active Directory Homelab Portfolio
+
+This project showcases my hands-on experience setting up and managing an **Active Directory (AD) environment** in a virtualized lab.  
+It was built from scratch on **VMware Workstation** using a **Dell laptop** running Windows, and includes PowerShell automation for user and group management.
+
+---
+
+## 🎯 Objectives
+
+The goal of this lab was to demonstrate my ability to:
+- Deploy and configure a **Windows Server domain controller**
+- Join Windows clients to a domain
+- Configure and manage **Group Policy Objects (GPOs)**
+- Set up and manage **DNS, DHCP**, and file sharing services
+- Automate administrative tasks using **PowerShell**
+- Simulate a small-scale enterprise network environment for training and troubleshooting
+
+---
+
+## 🧱 Lab Architecture
+
+| Role | Hostname | OS | Description |
+|------|-----------|----|-------------|
+| Domain Controller | DC01 | Windows Server 2022 | AD DS, DNS, DHCP |
+| Windows Client | CL01 | Windows 11 Pro | Joined to domain, used for testing GPOs |
+| Optional Admin Machine | ADM01 | Windows 11 | Management and scripting workstation |
+
 
 ---
 
