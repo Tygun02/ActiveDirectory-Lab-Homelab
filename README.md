@@ -109,5 +109,5 @@ This homelab was built to simulate real-world Help Desk and Junior System Admini
 
 ---
 
-**Location:** Netherlands  
+**Location:** Netherlands / England   
 **Role Target:** IT Support / Help Desk / Junior System Administrator
