@@ -18,7 +18,10 @@ This lab demonstrates hands-on configuration, administration, and troubleshootin
 
 **Domain Name**
 - LAB.local
+  
+## Lab Architecture Diagram
 
+![Lab Architecture](docs/images/Active-Directory-Homelab-Architecture.svg)
 ---
 
 ## Core Components Implemented
